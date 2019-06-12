@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+p {
+  text-indent: 28px;
+  &.no-indent {
+    text-indent: 0;
+  }
+}
+
+ol[start] {
+  > li {
+    font-size: 18px;
+    &:before,
+    &:after {
+      content: '"';
+    }
+  }
+}

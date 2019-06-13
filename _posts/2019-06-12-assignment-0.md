@@ -112,3 +112,8 @@ This article details one company's transformative experience with implementing 3
 **[Aluminum Association launches AM alloy registration system & grants HRL Laboratories first material validation]({{ site.baseurl }}{% link _posts/2019-06-12-assignment-0-social-networking-article-3.md %})**
 
 This article is about a new system introduced by the Aluminum Association to register alloys designed for additive manufacturing (aka 3D printing).  The first such alloy was invented and validated by HRL Laboratories.  We all agreed that this is a great step that will facilitate 3D printing's use in stricter industries like automotive and aerospace.
+
+{:start="9"}
+9. Self-Grading
+
+I believe this assignment deserves a grade of A because all of the requirements from the assignment prompt have been exhaustively addressed.  The social networking portion was extensive and well-summarized.  The Sustainable Green TQM principles were well incorporated into the assignment as well.

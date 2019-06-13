@@ -2,12 +2,25 @@
 layout: left-nav
 ---
 
-<small style="display: block; width: 100%; text-align: center;">&copy; 2019 Lorena Zamora Matos</small>
+<small class="stuff">&copy; 2019 Lorena Zamora Matos</small>
 
 <style>
-.menu-btn {
-  display: none;
-}
+  header {
+    margin: 0 auto;
+    position: static;
+    float: none;
+  }
+  body header img {
+    height: calc(100vh - 415px);
+  }
+  .menu-btn {
+    display: none;
+  }
+  .stuff {
+    display: block; 
+    width: 100%; 
+    text-align: center;
+  }
 </style>
 <script>
   document.getElementById("hamburger-menu").classList.toggle("open");

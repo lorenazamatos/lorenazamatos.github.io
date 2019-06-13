@@ -4,7 +4,29 @@ layout: default
 
 <div class="wrapper">
   <header>
-    {% include header.html %}
+    <h1>
+      <a href="{{ '/' | absolute_url }}">{{
+        site.title | default: site.github.repository_name
+      }}</a>
+    </h1>
+
+    {% if site.logo %}
+    <img src="{{ site.logo | relative_url }}" alt="Logo" />
+    {% endif %}
+    <div class="row">
+      <ul class="col-xs-4">
+        {% for post in site.posts reversed %} {% if post.category ==
+        "assignment" %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endif %} {% endfor %}
+      </ul>
+      <div class="bio col-xs-8">
+          {% capture bio %}{% include bio.md %}{% endcapture %}
+          {{ bio | markdownify }}
+      </div>
+    </div>
   </header>
   <section>
     {{ content }}

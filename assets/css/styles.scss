@@ -2,6 +2,77 @@
 ---
 
 @import "{{ site.theme }}";
+@import "https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css";
+
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+
+body {
+  padding: 0;
+}
+header {
+  width: 300px;
+  h1 {
+    a {
+      font-size: 49px;
+      color: #2ecc40;
+      &:hover {
+        color: #3d9970;
+      }
+    }
+    @media screen and (max-height: 570px) {
+      float: right;
+      width: 50%;
+    }
+  }
+  img {
+    height: calc(100vh - 385px);
+    margin: 0 auto 20px;
+    display: block;
+    @media screen and (max-height: 570px) {
+      float: left;
+    }
+  }
+  .row {
+    clear: left;
+  }
+  ul {
+    clear: both;
+    height: auto;
+    background: none;
+    border-radius: 0;
+    border: none;
+    border-right: 1px #333 solid;
+    width: auto;
+    a {
+      text-align: left;
+    }
+  }
+  li {
+    width: 100% !important;
+    border: none !important;
+    float: none;
+    height: auto;
+  }
+  .bio {
+    p {
+      text-indent: 0;
+      margin-bottom: 10px;
+    }
+    ul {
+      margin-top: 0 !important;
+      border: none;
+      text-indent: 20px;
+      list-style-type: disc;
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+      padding-inline-start: 40px;
+    }
+  }
+}
 
 p {
   text-indent: 28px;

@@ -101,14 +101,14 @@ To the end of preserving our environment, GreenSpeed will commit to being carbon
 {: .no-indent }
 **[Low Force Stereolithography: A first look at Formlabs' new 3D printers]({{ site.baseurl }}{% link _posts/2019-06-12-assignment-0-social-networking-article-1.md %})**
 
-foo
+This article was about FormLabs new 3D printers, the Form 3 and 3L. These new models introduce technology that allows companies that implement them to be much more agile than before.  All of us agree that this development is a great step in the right direction for manufacturing tech and that we are excited to see what Formlabs comes up with next.
 
 {: .no-indent }
 **[Ira Green makes 80% time saving on fixtures with RIZE 3D printing]({{ site.baseurl }}{% link _posts/2019-06-12-assignment-0-social-networking-article-2.md %})**
 
-bar
+This article details one company's transformative experience with implementing 3D printing in their production workflow.  Where they used to spend $300 and 2 full days on each prototype fixture, Ira Green was able to reduce this to $2 and just over an hour by leveraging the RIZE 3D printer.  We were all amazed at the implications this has for both Lean and Six Sigma methodologies.
 
 {: .no-indent }
 **[Aluminum Association launches AM alloy registration system & grants HRL Laboratories first material validation]({{ site.baseurl }}{% link _posts/2019-06-12-assignment-0-social-networking-article-3.md %})**
 
-baz
+This article is about a new system introduced by the Aluminum Association to register alloys designed for additive manufacturing (aka 3D printing).  The first such alloy was invented and validated by HRL Laboratories.  We all agreed that this is a great step that will facilitate 3D printing's use in stricter industries like automotive and aerospace.

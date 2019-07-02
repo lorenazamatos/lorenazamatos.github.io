@@ -63,8 +63,12 @@ body {
     }
     img {
       height: calc(100vh - 385px);
+      max-height: calc(100vw * 1.245);
       margin: 0 auto 20px;
       display: block;
+      @media screen and (min-width: 960px) {
+        max-height: 460px;
+      }
       @media screen and (max-height: 570px) and (min-width: 960px) {
         float: left;
       }

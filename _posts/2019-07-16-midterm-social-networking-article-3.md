@@ -20,3 +20,11 @@ The risk of obsolescence will always be there, progress is inevitable, and when 
 ## Brian Evans
 
 What this writer is describing is exactly what happens when a store like Walmart shows up in a small town.  Unfortunately, as consumers…we are left with no choice once the “mom and pop” stores closes.  We have to adapt to our new situation.  I agree with the writer that “engineering and procurement functions are specialized and need the highest levels of expertise and reliability that COTS can’t provide.  But like all of us Walmart shoppers, which some of us are also engineers,…..engineers will have to adapt because we’ll be left with no choice in some circumstances.
+
+## Avni Patel
+
+Being an engineer I agree with what Brians Evans has mentioned in his discussion, that engineers will have to adapt because we will be left with no choice in some circumstances. I understand that commercial off-the-shelf (COTS) is provided to help low cost convenience shopping. However, giving more power to the major supermarkets and disadvantage to the local shops and home produce centers. It is beneficial for the consumers who prefer low-cost products but when the local shops that eventually run out of business because of supermarkets, the others would have no choice but to buy COTS products. 
+
+## Jamarius Willis
+
+I agree with Brian about how Walmart’s can come to a small town and basically outperform the mom and pop stores. In these cases, though mom and pop stores must focus on their strength. The strength of smaller businesses is usually their specialty and convenience. For instance, most Walmart’s are far out because they require a lot of space. As for a Publix they are usually just a mile or 2 away from the nearest suburb. Publix isn’t a mom and pop of course but it is a good example of how smaller stores can still benefit. The one thing I hate about Publix though is how much more expensive it is. Often small businesses follow the same suit because of low demand. As a small business in today’s market you must find a few key specialties that aren’t often found at major businesses in the area.

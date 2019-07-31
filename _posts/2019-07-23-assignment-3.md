@@ -15,6 +15,8 @@ This assignment was prepared in its entirety by Lorena Zamora Matos.
 7. [References](#sec7)
 8. [Self-Grading](#sec8)
 
+The objective of this assignment is to apply the principles and content found in appendix B of professor Ranky’s book and to relate the project management role to any particular company without regards for the specific industry. This chapter takes a closer look to pollution, risks, challenges and solutions
+
 {:#sec1}
 {:start="1"}
 1. CRITICAL REQUIREMENTS: Identify critical requirements, as described in Appendix A, and...

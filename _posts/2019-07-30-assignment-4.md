@@ -2,6 +2,7 @@
 layout: post
 title:  "Assignment 4"
 category: assignment
+foo: "bar"
 ---
 
 This assignment was prepared in its entirety by Lorena Zamora Matos.

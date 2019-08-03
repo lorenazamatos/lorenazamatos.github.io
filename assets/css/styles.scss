@@ -16,6 +16,10 @@
 }
 
 body {
+  a:hover, a:focus {
+      color: #046;
+      font-weight: normal;
+  }
   padding: 0;
   header {
     width: 340px;

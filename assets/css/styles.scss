@@ -20,6 +20,11 @@ body {
       color: #046;
       font-weight: normal;
   }
+  ol {
+    ol {
+      margin-bottom: 0;
+    }
+  }
   padding: 0;
   header {
     width: 340px;

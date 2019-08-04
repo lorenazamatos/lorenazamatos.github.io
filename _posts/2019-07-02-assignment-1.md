@@ -305,4 +305,4 @@ I really like Essentium.  They approach 3D printing with the exact attitude that
 {:start="10"}
 10. SELF-GRADING
 
-I believe this assignment deserves a grade of A because all of the requirements from the assignment prompt have been addressed.
+I believe this assignment deserves a grade of 10/10, because all of the requirements from the assignment prompt have been addressed.

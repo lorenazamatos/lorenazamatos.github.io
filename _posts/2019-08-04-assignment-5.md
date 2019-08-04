@@ -25,9 +25,7 @@ This assignment will demonstrate how the content and methodologies explained in 
 
 [Please click here to find my reworked assignment 0]({{ site.baseurl }}{% link _posts/2019-06-12-assignment-0.md %}).  As per Professor Ranky's feedback, I made sure to go through the assignment spec and follow it to the letter.  Sections that were previously too short have been reinforced with additional supporting details.
 
-Based on the above feedback, I also identified that the self-grading section to assignment 1 was not to spec either, so that has been revised as well.  [Please click here to find the reworked section of assignment 1]({{ site.baseurl }}{% link _posts/2019-07-02-assignment-1.md %}#sec10).
-
-All the other assignments were granted the highest possible grade, and no opportunity for rework was identified based on the feedback to Assignment 1.
+All the other assignments were granted the highest possible grade, and no opportunity for rework was identified based on the prompt in the syllabus.
 
 {:#sec1}
 {:start="1"}
